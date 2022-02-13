@@ -1,0 +1,16 @@
+CRUD
+
+C
+
+R
+
+U
+
+D
+
+ROUTES
+
+List All Books: '/books'
+List single book: 'books/:bookId'
+Add Book: 'books/add'
+Update Book: 'books/:bookId/update'
